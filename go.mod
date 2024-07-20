@@ -1,3 +1,3 @@
-module github.com/baltikov/proto-module
+module github.com/baltikov/protos-module
 
 go 1.22.2
